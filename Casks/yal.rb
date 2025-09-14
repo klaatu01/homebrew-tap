@@ -2,7 +2,7 @@ cask "yal" do
   arch arm: "aarch64"
 
   version "0.2.0"
-  sha256 arm:   "b5d2e678af49bf82066151dc2add6301c79a9bba6d393191bb0a049e9894e501"
+  sha256 arm:   "ea669287961b6841ef909f7ba7d1deeb973936cd46e1bd83d63efeacf5c9aac8"
 
   url "https://github.com/klaatu01/yal/releases/download/app-v#{version}/yal_#{version}_#{arch}.dmg",
       verified: "github.com/klaatu01/yal/"
